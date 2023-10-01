@@ -1,7 +1,27 @@
 body {
   background-image: url(images/background.jpg);
+  background-attachment: fixed;
+  font-family: Roboto, sans-serif;
 }
 
 li.nav-item {
+  font-family: Roboto, sans-serif;
   font-size: 23px;
+}
+
+#our-text {
+  color: white;
+}
+
+#gallery-text {
+  color: #ff9c32;
+}
+
+footer {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.socials {
+  color: #8f8f8f;
 }
